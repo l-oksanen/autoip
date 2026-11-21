@@ -1,7 +1,5 @@
 # Autoformalized linear regularization theory
 
-Contributors: Tapio Helin, Medet Nursultanov, Lauri Oksanen
-
 Linear regularization theory, together with the functional analysis it rests
 on, formalized in [Lean 4](https://lean-lang.org/). The mathematics is stated
 in the LaTeX blueprint [`blueprint/blueprint.tex`](blueprint/blueprint.tex)
@@ -44,7 +42,3 @@ explain what lies underneath: Lean's type theory as a language for formal
 proofs, its kernel primitives (universes, function types and inductive
 types), how equality, the natural numbers, type classes and
 coercions are built from them, and the axioms Lean adds. 
-
-Buzzard's notes are
-the place to start writing proofs; Notes on Lean are the place to turn when
-one wants to understand why Lean behaves as it does.
